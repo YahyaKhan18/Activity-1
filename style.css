@@ -1,0 +1,30 @@
+.Static{
+    border: 3px solid red;
+    width: 200px;
+}
+.Sticky{
+    border: 3px solid orange;
+    width: 200px;
+    position: sticky;
+    left: 220px;
+    top: 0px;
+}
+.Absolute{
+    border: 3px solid blue;
+        width: 200px;
+        position: absolute;
+        left: 100px;
+}
+.Relative{
+    border: 3px solid green;
+        width: 200px;
+        position: relative;
+        left: 50px;
+}
+.Fixed{
+    border: 3px solid yellow;
+        width: 200px;
+        position: fixed;
+        right: 20px;
+        top: 0px;
+}
